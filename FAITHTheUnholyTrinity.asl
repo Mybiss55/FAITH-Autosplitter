@@ -51,7 +51,7 @@ startup
         tB("Ch3", "388", "Tripping Balls cutscene"),
         tB("Ch3", "141", "Nightmare section again right after tripping balls cutscene"),
         tB("Ch3", "266", "Weird cult section underneath the school after tripping balls"),
-        // tB("Ch3", "325", "First Gary battle before the end of the game"), Changed To Profdane Sabbath
+        // tB("Ch3", "325", "First Gary battle before the end of the game"), Changed To Profane Sabbath
         tB("Ch3", "150", "Profane Sabbath"),
         
         //Ending I & II
