@@ -38,9 +38,6 @@ startup
         tB("Ch2", "574", "Title Card"),
 
         //Chapter III
-        //TODO
-        //tB("Ch3", "112", "Missing exorcism spot that shows scene in clinic - Ending specific"),
-
         tB("Ch3", "381", "Open Chapter III / Nightmare 1"),
         tB("Ch3", "110", "Wake up Day 1"),
         tB("Ch3", "170", "Clinic Basement Stretcher"),
@@ -49,26 +46,30 @@ startup
         tB("Ch3", "180", "Inside Lisas room + Lisa fight"),
         tB("Ch3", "244", "Tiffany boss intro and fight"),
         tB("Ch3", "130", "Nightmare 3"),
-
-        //TODO
-        // tB("Ch3", "1111", "Image with text about X night before Profane Sabbath after nightmare sequence in house which is for Ending I and II"),
-
         tB("Ch3", "133", "Wake up Day 3"),
         tB("Ch3", "248", "School entrance"),
         tB("Ch3", "388", "Tripping Balls cutscene"),
         tB("Ch3", "141", "Nightmare section again right after tripping balls cutscene"),
         tB("Ch3", "266", "Weird cult section underneath the school after tripping balls"),
-
-        tB("Ch3", "325", "First Gary battle before the end of the game"),
-        //Ending II
+        // tB("Ch3", "325", "First Gary battle before the end of the game"), Changed To Profdane Sabbath
+        tB("Ch3", "150", "Profane Sabbath"),
+        
+        //Ending I & II
         tB("Ch3", "338", "Second Gary fight for Ending II which is right before the final end of the game and Ending specific to II"),
         tB("Ch3", "343", "The Ending for Ending II right before last automatic split triggers. Choosing to leave with Fr. Garcia"),
 
-        //TODO Ending III
-        // tB("Ch3", "290", "Waking up in house for Ending III where it is all dark with lightning strikes and an inverted cross is over the protagonists head on Night 3"),
-        // tB("Ch3", "297", "Grabbing key in basement of protagonists house during lightning strike - Ending specific to III I think"),
-        // tB("Ch3", "293", "Going inside the room locked up with all the crosses in the protagonists house for Ending III"),
-        // tB("Ch3", "308", "Ending placard for Ending III. Needs to have final time split here"),
+        //Ending I & III
+        tB("Ch3", "169", "Empty Clinic"),
+        tB("Ch3", "247", "Empty Apartment"),
+        tB("Ch3", "320", "Empty Apartment"),
+
+        //Ending II
+        tB("Ch3", "336", "Ending"),
+
+        //Ending III
+        tB("Ch3", "354", "Grabbing key in basement of protagonists house during lightning strike - Ending specific to III I think"),
+        tB("Ch3", "350", "Going inside the room locked up with all the crosses in the protagonists house for Ending III"),
+        tB("Ch3", "366", "Ending placard for Ending III. Needs to have final time split here"),
 
         tB("Ch3", "346", "Title Card"),
     };
@@ -125,7 +126,13 @@ startup
         343,
         345,
         133,
-        93
+        93,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366
 
 
     };
